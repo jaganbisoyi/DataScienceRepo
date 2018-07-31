@@ -1,0 +1,15 @@
+Course Content
+• Introduction to time series
+• Understanding of trends and patterns in time series data
+• Time series decomposition
+• Stationary series and unit root tests
+• Importance of differencing
+• Exponential smoothing
+• Holt Winter methods
+• Linear regression
+• Auto correlation (ACF) and partial auto correlation functions (PACF)
+• Box Jenkins methods (ARIMA models)
+• Model diagnostics and residual analysis
+• Intervention models
+• Dynamic regression
+• Multivariate forecasting techniques
